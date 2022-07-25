@@ -15,4 +15,10 @@ Synchronized不具备继承属性，即父类方法中使用了Synchronized，�
 
 ### synchronized 实例：售票
 
+## 创建线程的几种方式
+1.继承Thread类
+2.实现runnable接口
+3.实现callable接口
+4.线程池    
+
 
