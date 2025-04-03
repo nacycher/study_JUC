@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c4827b6c-bb20-4f1e-953d-9532ab968b45" name="Changes" comment="[add]新增UserInfo CURD" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;nacycher&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/nacycher/study_JUC.git&quot;,
+    &quot;accountId&quot;: &quot;0f7e654f-7663-458b-8fc1-62e00d846a10&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2iwoInsnL56GpTDuOUdD06tXw28" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Application.DemoLock01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LockSaleTicket.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.UserInfoTest.multiThreadInsert.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserInfoTest.testBatchInsert.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserInfoTest.testDeleteUserInfo.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserInfoTest.testSelectUserInfoByIds.executor&quot;: &quot;Run&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Spring Boot.JUCMainApplication.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/秋秋/IdeaProjects/study_JUC&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.fileTypes&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql_aurora_aws&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\秋秋\IdeaProjects\study_JUC\src\test\java" />
+      <recent name="C:\Users\秋秋\IdeaProjects\study_JUC\src" />
+      <recent name="C:\Users\秋秋\IdeaProjects\study_JUC\src\main" />
+      <recent name="C:\Users\秋秋\IdeaProjects\study_JUC" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.UserInfoTest.multiThreadInsert">
+    <configuration name="UserInfoTest.multiThreadInsert" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="study_JUC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.study.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.study" />
+      <option name="MAIN_CLASS_NAME" value="com.study.UserInfoTest" />
+      <option name="METHOD_NAME" value="multiThreadInsert" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserInfoTest.testBatchInsert" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="study_JUC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.study.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.study" />
+      <option name="MAIN_CLASS_NAME" value="com.study.UserInfoTest" />
+      <option name="METHOD_NAME" value="testBatchInsert" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserInfoTest.testDeleteUserInfo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="study_JUC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.study.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.study" />
+      <option name="MAIN_CLASS_NAME" value="com.study.UserInfoTest" />
+      <option name="METHOD_NAME" value="testDeleteUserInfo" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserInfoTest.testSelectUserInfoByIds" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="study_JUC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.study.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.study" />
+      <option name="MAIN_CLASS_NAME" value="com.study.UserInfoTest" />
+      <option name="METHOD_NAME" value="testSelectUserInfoByIds" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JUCMainApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="study_JUC" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.study.JUCMainApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.study.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.UserInfoTest.multiThreadInsert" />
+        <item itemvalue="JUnit.UserInfoTest.testBatchInsert" />
+        <item itemvalue="JUnit.UserInfoTest.testDeleteUserInfo" />
+        <item itemvalue="JUnit.UserInfoTest.testSelectUserInfoByIds" />
+        <item itemvalue="Spring Boot.JUCMainApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c4827b6c-bb20-4f1e-953d-9532ab968b45" name="Changes" comment="" />
+      <changelist id="" name="New changelist" comment="" />
+      <created>1720410922751</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1720410922751</updated>
+      <workItem from="1720410923871" duration="484000" />
+      <workItem from="1728885808280" duration="55000" />
+      <workItem from="1728894885122" duration="5585000" />
+      <workItem from="1728971151455" duration="653000" />
+      <workItem from="1743586000348" duration="6441000" />
+      <workItem from="1743646825854" duration="6759000" />
+      <workItem from="1743661764283" duration="1769000" />
+    </task>
+    <task id="LOCAL-00001" summary="commit test for idea git">
+      <option name="closed" value="true" />
+      <created>1720411278043</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1720411278043</updated>
+    </task>
+    <task id="LOCAL-00002" summary="[add]新增UserInfo CURD">
+      <option name="closed" value="true" />
+      <created>1743649940243</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1743649940243</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit test for idea git" />
+    <MESSAGE value="[add]新增UserInfo CURD" />
+    <option name="LAST_COMMIT_MESSAGE" value="[add]新增UserInfo CURD" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
