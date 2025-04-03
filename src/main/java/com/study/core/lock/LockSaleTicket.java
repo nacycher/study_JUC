@@ -1,4 +1,4 @@
-package com.bolin.lock;
+package com.study.core.lock;
 
 /*
  * 使用lock实现售票

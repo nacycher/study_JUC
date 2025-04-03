@@ -1,4 +1,4 @@
-package com.bolin.lock;
+package com.study.core.lock;
 
 import java.util.concurrent.locks.Condition;
 import java.util.concurrent.locks.Lock;

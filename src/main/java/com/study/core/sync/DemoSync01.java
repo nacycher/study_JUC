@@ -1,4 +1,4 @@
-package com.bolin.sync;
+package com.study.core.sync;
 
 // 创建资源类，定义变量和操作资源类方法
 class Number {

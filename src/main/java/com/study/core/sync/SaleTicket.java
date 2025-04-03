@@ -1,4 +1,4 @@
-package com.bolin.sync;
+package com.study.core.sync;
 
 // 1. 创建资源类 定义属性和方法
 

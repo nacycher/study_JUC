@@ -1,4 +1,4 @@
-package learning;
+package com.study.learning;
 
 public class Learning01 {
     public static void main(String[] args) {
